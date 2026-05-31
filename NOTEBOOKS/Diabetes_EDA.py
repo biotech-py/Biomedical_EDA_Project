@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # %%
-df = pd.read_csv("../data/diabetes.csv")
+df = pd.read_csv("../DATA/diabetes.csv")
 
 # %%
 df.head()
