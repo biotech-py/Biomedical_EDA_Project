@@ -2,21 +2,30 @@
 
 ## Project Objective
 
+This project performs Exploratory Data Analysis (EDA) on the Pima Indians Diabetes Dataset to identify patterns, risk factors, and relationships associated with diabetes.
+
 ## Dataset Information
 
+* Dataset: Pima Indians Diabetes Dataset
+* Records: 768 patients
+* Features: 8 clinical variables and 1 target variable
+* Target Variable: Diabetes Outcome (0 = Non-Diabetic, 1 = Diabetic)
+
 ## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
 
 ## Key Findings
-- Glucose showed the strongest correlation with diabetes.
-- Diabetic patients had higher BMI.
-- Age was positively associated with diabetes.
-- Insulin contained many missing values.
 
-## Sample Visualizations
+* Glucose exhibited the strongest correlation with diabetes outcome.
+* Diabetic patients had significantly higher average glucose levels.
+* Higher BMI was associated with increased diabetes prevalence.
+* Older individuals were more likely to be diabetic.
+* The Insulin variable contained a large number of missing values represented as zeros.
 
 ## Sample Visualizations
 
@@ -38,12 +47,27 @@
 
 ## Repository Structure
 
-DATA/
-NOTEBOOKS/
-OUTPUTS/
-REPORTS/
+```text
+Biomedical_EDA_Project/
+│
+├── DATA/
+├── NOTEBOOKS/
+│   ├── Diabetes_EDA.ipynb
+│   └── Diabetes_EDA.py
+├── OUTPUTS/
+├── REPORTS/
+└── README.md
+```
 
 ## Future Improvements
-- Machine Learning prediction model
-- Power BI dashboard
-- Statistical hypothesis testing
+
+* Develop a machine learning model for diabetes prediction.
+* Build an interactive Power BI dashboard.
+* Perform statistical hypothesis testing.
+* Conduct feature engineering and model evaluation.
+
+## Author
+
+Nirupam Joarder
+
+Biotechnology | Data Analytics | Python
