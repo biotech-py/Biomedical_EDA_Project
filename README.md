@@ -4,6 +4,24 @@
 
 This project performs Exploratory Data Analysis (EDA) on the Pima Indians Diabetes Dataset to identify factors associated with diabetes.
 
+## Sample Visualizations
+
+### Glucose Distribution
+
+![Glucose Distribution](OUTPUTS/glucose_distribution.png)
+
+### BMI Distribution
+
+![BMI Distribution](OUTPUTS/bmi_distribution.png)
+
+### Outcome Distribution
+
+![Outcome Distribution](OUTPUTS/outcome_distribution.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](OUTPUTS/correlation_matrix.png)
+
 ## Tools Used
 
 - Python
