@@ -1,7 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-
 # Biomedical EDA: Diabetes Analysis
 
 ## Project Objective
